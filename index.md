@@ -1,1 +1,1 @@
-[react-native踩坑记录](https://beingx.github.io/react-native_fix)
+[react-native踩坑记录](/react-native_fix)
